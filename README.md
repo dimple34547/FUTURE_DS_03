@@ -96,7 +96,7 @@ The Tableau dashboard includes:
 
 - `README.md` – Project documentation
 - `Bank_Marketing_Campaign_Cleaned.xlsx` – Cleaned dataset
-- `FUTURE_DS_03_Marketing_Funnel_Conversion_Analysis.twbx` – Tableau workbook
+- `Marketing Funnel & Conversion Performance Analysis.twb` – Tableau workbook
 - `Marketing_Funnel_Conversion_Dashboard.png` – Final dashboard image
 
 ## 👩‍💻 Internship
